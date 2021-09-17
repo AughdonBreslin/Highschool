@@ -1,7 +1,0 @@
-::TODO::
-
--Tilt controls
--Possible Kinect control?
-	-need Processing :(
--More songs?
-
